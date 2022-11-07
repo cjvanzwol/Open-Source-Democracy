@@ -1,11 +1,12 @@
 # Open Source Democracy
-My idea is to use git for laws and policies. When law and policies are treated like open source software, everyone can contribute by suggesting changes to al the rules.
+Using git for laws and policies. When law and policies are treated like open source software, everyone can contribute by suggesting changes to al the rules.
 
-## The problem
-Politicians and government employees write the laws and policies. Then parlement checks them. And once every four years (in the Netherlands) the people choose the parlement. This is Democracy as we know it in a nutshell. 
+## The problem (at least for the Dutsch system)
+Politicians and government employees write the laws and policies. Hoping the have the disered effect, and are not tested when deployed.
+Then the parlement aproves them. And once every four years the people choose the parlement. This is Democracy as we know it in a nutshell.
 
 **There is no real input from the people.**
-Politicians act on their own ideas, because they think they are chosen because of their ideas, when in fact they just need to be active enough inside a party to be placed on the elections lists. So the party chooses the politicians, not the people.
+Politicians act on their own ideas, because they think they are chosen because of their ideas, when in fact they just need to be active enough inside a political party to be placed on the elections lists. So the party chooses the politicians, not the people.
 
 In the Netherlands there was a short time when referenda could be called, but they were ended by the policymakers. 
 
@@ -18,4 +19,4 @@ Like Linux has become the savest Operating System, because everyone (not only sp
 **Could this also happen for the rules we live by?**
 
 ## The solution
-Git for policies
+Opensourcing Democracy with git for laws and policies!
